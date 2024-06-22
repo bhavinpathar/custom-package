@@ -1,0 +1,11 @@
+{
+    "name": "bhavbhavinpatharin/random numbers",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "bhavinpathar\\randomnumbers\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
